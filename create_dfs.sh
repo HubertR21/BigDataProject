@@ -1,0 +1,1 @@
+haddop fs -mkdir /user/BDprojekt
