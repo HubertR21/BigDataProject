@@ -1,1 +1,1 @@
-haddop fs -mkdir /user/BDprojekt
+hadoop fs -mkdir /user/BDprojekt
