@@ -8,6 +8,6 @@ In the end, to see the results one has to go thrugh ipynb file.
 
 More detailed description for the testing pipeline is described in the ReportBigData file, which is in polish language.
 
-*Note that running on personal machine or VM might require loads of additional work to download right packages and configure everything properly.*
+**Note that running on personal machine or VM might require loads of additional work to download right packages and configure everything properly.**
 
 To avoid that, we provide a link to google disk with our working VM: https://drive.google.com/drive/folders/1NGhgW72gCUh4ULpT34Dt97cxf3GwoLk-
